@@ -18,4 +18,4 @@ __Linux/Termux__:-
 * clone repo and cd to repo folder
 * `make linux`
 
-Project by __Mr.Unkn0wn__ , __ph0en1x__ , __Salman__ , __Nasi Osx__
+Project by __𝘀𝗵𝗮𝗺𝗶𝗿𝗼𝘅𝘀__ , __𝗺𝗿-𝘀𝗵𝟰𝗻__ , __𝘀𝗮𝗹𝗺𝗮𝗻__ , __𝗻𝘅𝗯𝟭𝘁__
